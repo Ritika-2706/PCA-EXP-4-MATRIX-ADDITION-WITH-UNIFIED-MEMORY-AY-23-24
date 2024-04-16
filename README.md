@@ -524,4 +524,4 @@ int main(int argc, char **argv)
 ![Screenshot (103)](https://github.com/Ritika-2706/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/93427238/3878f0a6-806f-40ce-860f-5d3937e25605)
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given less 0.007328 sec time.
